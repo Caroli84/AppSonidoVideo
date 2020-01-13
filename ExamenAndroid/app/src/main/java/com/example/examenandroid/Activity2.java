@@ -66,6 +66,7 @@ public class Activity2 extends AppCompatActivity {
                 }
                 startActivity(intent);
 
+
                 //onactivityResult
 
                 String name=nom.getText().toString();
